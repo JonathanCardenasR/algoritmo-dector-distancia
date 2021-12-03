@@ -1,4 +1,4 @@
-# algoritmo-dector-distancia
+# algoritmo-Vector-distancia
 
 Instrucciones para correr el programa
 Para correr el programa RC-602-CA2-Programa-Cardenas-20192549.py es necesario instalar el módulo memory_profiler que se utilizó para el cálculo del uso de memoria. 
